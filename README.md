@@ -32,6 +32,7 @@ Smart LMS provides:
 
 ## 👥 Team
 
-**Team:** `YOUR TEAM NAME`
+**Team:** Hesignbugs
+
 
 Built with ❤️ for our college hackathon.
